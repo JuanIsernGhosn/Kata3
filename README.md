@@ -1,4 +1,4 @@
-# Kata3
+# Kata_3
 
 ## Enunciado:
 
